@@ -7,7 +7,7 @@
 </p>
 
 ![logo](https://telegra.ph/file/f34d779b2842bf5a1d3a0.jpg)
-💌 Reach me on Telegram [Spartan](https://t.me/Elizabeth_tgbot)
+### Find Me on Telegram as [Spartan](https://t.me/SpartanXoff_bot)
 <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "left">
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
