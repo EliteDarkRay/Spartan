@@ -486,12 +486,12 @@ Some dank memes for fun or whatever!
  ➩ /lined <text>: lined your text!
 *Regex based memes:*
 
- ➩ `/decide` can be also used with regex like: `Elizabeth What? <question>: randomly answer "Yes, No" etc.`
+ ➩ `/decide` can be also used with regex like: `Spartan What? <question>: randomly answer "Yes, No" etc.`
 
   Some other regex filters are:
   `me too` | `good morning` | `good night`.
 
-  Elizabeth will reply random strings accordingly when these words are used!
+  Spartan will reply random strings accordingly when these words are used!
   All regex filters can be disabled incase u don't want... like: `/disable metoo`.
 
 """
@@ -500,7 +500,7 @@ __mod_name__ = "MEMES"
 
 SHRUG_HANDLER = DisableAbleCommandHandler("shrug", shrug)
 DECIDE_HANDLER = DisableAbleMessageHandler(
-    Filters.regex(r"(?i)(Elizabeth)"), decide, friendly="decide"
+    Filters.regex(r"(?i)(Spartan)"), decide, friendly="decide"
 )
 SNIPE_HANDLER = CommandHandler(
     "snipe", snipe, pass_args=True, filters=CustomFilters.sudo_filter
