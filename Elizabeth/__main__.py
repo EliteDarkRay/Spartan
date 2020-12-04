@@ -53,7 +53,7 @@ buttons += [[InlineKeyboardButton(text="😁 ADD ME TO YOUR GROUP 😁",
 ]]
 
 buttons += [[InlineKeyboardButton(text="💾SOURCE CODE",
-                                  url="https://github.com/jerinjohny-ktnm"),
+                                  url="https://github.com/jerinjohny-ktnm/Spartan"),
              InlineKeyboardButton(text="😎CREATOR",
                                   url="https://t.me/imjerin"),
 ]]
