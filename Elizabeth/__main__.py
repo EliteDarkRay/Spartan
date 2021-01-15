@@ -44,26 +44,26 @@ PM_START_TEXT = f"""
 *I will help you to manage your groups.. Click Help button to find out more about how to use me with my full potential...*
 """
 
-buttons = [[InlineKeyboardButton(text="➡️ HELP AND COMMANDS ⬅️",
+buttons = [[InlineKeyboardButton(text="❓ Help ❓",
                                   callback_data="help_back"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="😁 ADD ME TO YOUR GROUP 😁",
+buttons += [[InlineKeyboardButton(text="➕ Add Me ➕",
                                   url="t.me/spartantg_offbot?startgroup=true"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="💾SOURCE CODE",
+buttons += [[InlineKeyboardButton(text="💾Source Code",
                                   url="https://github.com/jerinjohny-ktnm/Spartan"),
-             InlineKeyboardButton(text="😎CREATOR",
+             InlineKeyboardButton(text="🔱 Creator 🔱",
                                   url="https://t.me/imjerin"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="🔒 CLOSE THE MENU 🔒",
+buttons += [[InlineKeyboardButton(text="🔒 Close the Menu 🔒",
                                   callback_data="close_menu")]]
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` [⚔️ƼƤѦƦϮѦƝ⚔️](https://telegra.ph/file/f34d779b2842bf5a1d3a0.jpg)
+`Hi.. I'm` [⚔️𝗦𝗣𝗔𝗥𝗧𝗔𝗡⚔️](https://telegra.ph/file/321d2daefb1e6154fed5f.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
