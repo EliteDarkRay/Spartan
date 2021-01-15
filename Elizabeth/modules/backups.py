@@ -341,7 +341,7 @@ def export_data(update, context):
         document=open(
             "Userindo-Bot{}.backup".format(chat_id),
             "rb"),
-        caption="*Successfully backup:*\nChat: `{}`\nChat ID: `{}`\nOn: `{}`\n\nNote: This `Userindobot-Backup` is specially made for notes.".format(
+        caption="*Successfully backup:*\nChat: `{}`\nChat ID: `{}`\nOn: `{}`\n\nNote: This `Spartan-Backup` is specially made for notes.".format(
             chat.title,
             chat_id,
             tgl),
@@ -376,7 +376,7 @@ __mod_name__ = "BACKUPS"
 __help__ = """
 *Only for chat administrator:*
 
- ➩ /import: Reply to the backup file for the Butler / Elizabeth group to import as much as possible, making transfers very easy! \
+ ➩ /import: Reply to the backup file for the Spartan group to import as much as possible, making transfers very easy! \
  Note that files / photos cannot be imported due to telegram restrictions.
 
  ➩ /export: Export group data, which will be exported are: rules, notes (documents, images, music, video, audio, voice, text, text buttons) \
