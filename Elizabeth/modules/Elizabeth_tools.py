@@ -10,4 +10,4 @@ __help__ = """
  ➩ /datetime <country code> Get date and time by provided country 
 """
 
-__mod_name__ = "TOOLS"
+__mod_name__ = "⚜ TOOLS ⚜"
