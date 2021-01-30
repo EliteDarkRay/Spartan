@@ -635,7 +635,7 @@ Note:
  • Unlocking permission *pin* will allow members (non-admins) to pinned a message in a group
 """
 
-__mod_name__ = "LOCKING"
+__mod_name__ = "⚜ LOCKING ⚜"
 
 LOCKTYPES_HANDLER = DisableAbleCommandHandler("locktypes", locktypes)
 # , filters=Filters.group)
