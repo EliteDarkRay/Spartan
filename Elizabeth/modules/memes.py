@@ -496,7 +496,7 @@ Some dank memes for fun or whatever!
 
 """
 
-__mod_name__ = "MEMES"
+__mod_name__ = "⚜ MEMES ⚜"
 
 SHRUG_HANDLER = DisableAbleCommandHandler("shrug", shrug)
 DECIDE_HANDLER = DisableAbleMessageHandler(
