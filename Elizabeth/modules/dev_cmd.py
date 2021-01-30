@@ -32,4 +32,4 @@ Here is all the staff's commands.
 """
 
 
-__mod_name__ = "DEVS"
+__mod_name__ = "⚜ DEVS ⚜"
