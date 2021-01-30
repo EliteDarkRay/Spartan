@@ -695,7 +695,7 @@ Example:
  ⚠️ `Read from top`
 """
 
-__mod_name__ = "EXTRAS"
+__mod_name__ = "⚜ EXTRAS ⚜"
 
 ID_HANDLER = DisableAbleCommandHandler("id", get_id, pass_args=True)
 INFO_HANDLER = DisableAbleCommandHandler("info", info, pass_args=True)
