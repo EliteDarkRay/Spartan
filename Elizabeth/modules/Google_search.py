@@ -68,4 +68,4 @@ __help__ = """
  ➩ /gps <location> Get gps location
 """
 
-__mod_name__ = "GOOGLE"
+__mod_name__ = "⚜ GOOGLE ⚜"
