@@ -172,7 +172,7 @@ Reply to user's message: `/setbio He is such cool person`.
 *Notice:* Do not use /setbio against yourself!
 """
 
-__mod_name__ = "INFO"
+__mod_name__ = "⚜ INFO ⚜"
 
 SET_BIO_HANDLER = DisableAbleCommandHandler("setbio", set_about_bio)
 GET_BIO_HANDLER = DisableAbleCommandHandler("bio", about_bio, pass_args=True)
