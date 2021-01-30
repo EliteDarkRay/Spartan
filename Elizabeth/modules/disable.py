@@ -262,7 +262,7 @@ if is_module_loaded(FILENAME):
     ➩ /listcmds: List all possible disablable commands
     """
    
-    __mod_name__ = "DISABLE"
+    __mod_name__ = "⚜ DISABLE ⚜"
 
 
     DISABLE_HANDLER = CommandHandler(
