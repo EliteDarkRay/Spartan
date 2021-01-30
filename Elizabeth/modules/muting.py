@@ -265,7 +265,7 @@ An example of temporarily mute someone:
 `/tmute @username 2h`; This mutes a user for 2 hours.
 """
 
-__mod_name__ = "MUTING"
+__mod_name__ = "⚜ MUTING ⚜"
 
 MUTE_HANDLER = CommandHandler(
     "mute",
