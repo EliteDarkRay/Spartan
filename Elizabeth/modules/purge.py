@@ -96,4 +96,4 @@ messages all together or individually.
 """
 
 
-__mod_name__ = "DELETE"
+__mod_name__ = "⚜ PURGE ⚜"
