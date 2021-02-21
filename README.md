@@ -6,7 +6,7 @@
     <a href="https://www.codacy.com/gh/jerinjohny-ktnm/Spartan/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jerinjohny-ktnm/Spartan&amp;utmcampaign=Badge_Grade"><img src="https://img.shields.io/codacy/grade/a3a19d2b551641039ec7edc3aa7b8c5d?style=flat-square&logo=codacy&color=F10070" alt="codacy badge"/></a>
 </p>
 
-![logo](https://telegra.ph/file/321d2daefb1e6154fed5f.jpg)
+![logo](https://telegra.ph/file/57705999f93eaae5cd343.jpg)
 ### Find Me on Telegram as [Spartan](https://t.me/Spartantg_offbot)
 <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "left">
 
